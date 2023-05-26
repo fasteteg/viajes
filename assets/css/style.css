@@ -228,3 +228,7 @@ div div div ul li {
         display: none;
     }
 }
+
+html {
+    scroll-behavior: smooth;
+}
